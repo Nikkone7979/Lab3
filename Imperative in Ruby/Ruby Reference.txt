@@ -1,0 +1,7 @@
+Ruby is a lot different from the C based languages I've written in:
+'end' is used instead of ;
+Methods/functions are defined by simply "def" followed by the function name, and then the parameters.
+Variables don't need data types assigned to them, and can be called and treated like objects.
+For loops are have a drastically different syntax, ".." is used for traversing an array (from i + 1 to x in this case)
+"puts" is a function that prints text to the console
+Ruby seems to have overall less restrictions on syntax than other languages I've worked with.

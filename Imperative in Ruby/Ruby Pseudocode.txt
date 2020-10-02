@@ -1,0 +1,13 @@
+Pseudocode for selection sort in ruby:
+
+Define a function that takes an array,
+	//Ruby supports the ability to implement a for loop directly for a defined amount of times
+	Instantiate a variable immediately to be the length of the array: x
+	Call the variable using the function .times to iterate the loop x amount of times
+		Set a variable i = to the minimum
+		For j in i + 1 going to the size of the array
+			Compare array[j] and array[current minimum] and set the new minimum
+		Check if array [i] and array[minimum] are the same, swap them if they are not
+	End loop
+		
+	
