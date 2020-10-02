@@ -1,0 +1,12 @@
+Bubblesort in C#:
+
+Instantiate an arbitrary array,
+Call a variable j  to hold a number in the algorithm
+	For p going from 0 to the last number of the array:
+		For i going from 0 to the last number of the array:
+		if the ith spot of the array is greater than the next slot of the array:
+			hold the next slot of the array as j
+			swap the two slots
+			set the ith slot to the number j was holding
+
+This is a basic bubblesort in C#

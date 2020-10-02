@@ -1,0 +1,11 @@
+I wanted to pick a C language because I felt it would be easy to carry over the syntax that I already knew
+
+The first main difference I found was everything being within the scope of the namespace.
+
+"Namespaces are heavily used in C# programming in two ways. First, .NET uses namespaces to organize its many classes"
+
+The second difference was after being within the scope of the namepsace, all of the code was then within the scope
+of the class. Your main function would go within the scope of both of these.
+
+The rest of the syntax is mostly similar to other C based languages. Printing to the console had a different
+object call: Console.WriteLine.
